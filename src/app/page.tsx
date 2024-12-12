@@ -72,7 +72,7 @@ export default function Home() {
             This website was modified from
             <Link href="https://github.com/transmissions11/transmissions11.github.io">
               {" "}
-              t11s'{" "}
+              t11s&#39;{" "}
             </Link>{" "}
             fork of the a
             <Link href="https://github.com/dapphub/dapp-tools">
