@@ -3,25 +3,73 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #fffcef;
+  --foreground: #000000;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #fffcef;
+    --foreground: #000000;
   }
 }
 
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 0.2em;
+}
+
+.subtitle {
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+body {
+  line-height: 1.6;
+  font-size: 18px;
+  padding: 0 10px;
+  margin: 60px auto;
+  max-width: 700px;
+}
+
+h2, h2, h3 {
+  line-height: 1.2;
+  font-style: italic;
+  font-weight: bold;
+}
+
+h2 {
+  font-style: italic;
+  font-size: 18px;
+}
+
+a:link, a:visited {
+  font-style: italic;
+  color: blue;
+}
+
+code, .code {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 1.125rem;
+  line-height: 1.6;
+  padding: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin: 0;
+  font-size: 85%;
+  border-radius: 3px;
 }

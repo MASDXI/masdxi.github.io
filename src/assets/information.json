@@ -1,0 +1,42 @@
+{
+  "name": "sirawt",
+  "description": "the personal website of sirawt",
+  "email": "sirawitt42@gmail.com",
+  "github": "https://github.com/MASDXI",
+  "twitter": "",
+  "linkedin": "",
+  "projects": [
+    {
+      "url": "https://github.com/MASDXI/forest",
+      "title": "forest",
+      "description": "token with forest structure for better traceability and enforcement"
+    },
+    {
+      "url": "https://github.com/uniswap/permit2",
+      "title": "expirable-erc20-utxo-token ",
+      "description": "token with the UTXO model and an expiration mechanism"
+    }
+  ],
+  "publications": [
+    {
+      "url": "https://eips.ethereum.org/EIPS/eip-7818",
+      "title": "erc-7818",
+      "description": "expirable token"
+    },
+    {
+      "url": "https://coinsbench.com/tuning-your-smart-contract-d43c02bdba8",
+      "title": "tuning-your-smart-contract",
+      "description": "optimize your smart contract with a solidity optimizer"
+    },
+    {
+      "url": "https://medium.com/block6/pseudo-radom-number-generator-with-signed-message-16beb1417b4d",
+      "title": "prng-with-signed-message",
+      "description": "pseudo random number generator with signed message"
+    },
+    {
+      "url": "https://medium.com/@sirawt/tutorial-hyperledger-iroha-v1-ed83a3c29af1",
+      "title": "hyperledger-iroha-v1-tutorial",
+      "description": "set up hyperledger/iroha v1 and interact with iroha sdk"
+    }
+  ]
+}
