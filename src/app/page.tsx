@@ -77,9 +77,9 @@ export default function Home() {
             fork of the a
             <Link href="https://github.com/dapphub/dapp-tools">
               {" "}
-              dapptools website{" "}
-            </Link>
-            re-build with{" "}
+              dapptools
+            </Link>{" "}
+            website re-build with{" "}
             <Link href="https://nextjs.org" target="_blank">
               next.js
             </Link>
