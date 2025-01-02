@@ -12,7 +12,7 @@
       "description": "token with forest structure for better traceability and enforcement"
     },
     {
-      "url": "https://github.com/uniswap/permit2",
+      "url": "https://github.com/MASDXI/expirable-erc20-utxo-token",
       "title": "expirable-erc20-utxo-token ",
       "description": "token with the UTXO model and an expiration mechanism"
     }
@@ -22,6 +22,11 @@
       "url": "https://eips.ethereum.org/EIPS/eip-7818",
       "title": "erc-7818",
       "description": "expirable token"
+    },
+    {
+      "url": "https://ethereum-magicians.org/t/eip-7852-opcodes-per-second/22179/1",
+      "title": "erc-7852",
+      "description": "OpPS: Opcodes Per Second"
     },
     {
       "url": "https://coinsbench.com/tuning-your-smart-contract-d43c02bdba8",
