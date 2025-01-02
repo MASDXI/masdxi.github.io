@@ -13,7 +13,7 @@
     },
     {
       "url": "https://github.com/MASDXI/expirable-erc20-utxo-token",
-      "title": "expirable-erc20-utxo-token ",
+      "title": "expirable-erc20-utxo-token",
       "description": "token with the UTXO model and an expiration mechanism"
     }
   ],
