@@ -74,7 +74,7 @@ export default function Home() {
               {" "}
               t11s&#39;{" "}
             </Link>{" "}
-            fork of the a
+            fork of the
             <Link href="https://github.com/dapphub/dapp-tools">
               {" "}
               dapptools
