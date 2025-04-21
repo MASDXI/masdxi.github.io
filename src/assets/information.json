@@ -7,7 +7,7 @@
   "linkedin": "https://www.linkedin.com/in/sirawittec/",
   "projects": [
     {
-      "url": "https://github.com/MASDXI/forest",
+      "url": "https://github.com/MASDXI/forest-solidity",
       "title": "forest",
       "description": "token with forest structure for better traceability and enforcement"
     },
@@ -21,12 +21,17 @@
     {
       "url": "https://eips.ethereum.org/EIPS/eip-7818",
       "title": "erc-7818",
-      "description": "expirable token"
+      "description": "expirable ERC-20 token"
     },
     {
       "url": "https://ethereum-magicians.org/t/eip-7852-opcodes-per-second/22179/1",
       "title": "erc-7852",
       "description": "opps—opcodes per second"
+    },
+    {
+      "url": "https://eips.ethereum.org/EIPS/eip-7858",
+      "title": "erc-7858",
+      "description": "expirable ERC-721 and soulbound token"
     },
     {
       "url": "https://coinsbench.com/tuning-your-smart-contract-d43c02bdba8",
