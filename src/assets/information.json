@@ -12,6 +12,11 @@
       "description": "token with forest structure for better traceability and enforcement"
     },
     {
+      "url": "https://github.com/MASDXI/chronograph-evm",
+      "title": "chronograph-evm",
+      "description": "explores the design of a 10,000 baht digital wallet by applying relevant ethereum standards, including ERC-6372 and ERC-7818"
+    },
+    {
       "url": "https://github.com/MASDXI/expirable-erc20-utxo-token",
       "title": "expirable-erc20-utxo-token",
       "description": "token with the UTXO model and an expiration mechanism"
