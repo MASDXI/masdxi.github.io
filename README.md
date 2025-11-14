@@ -1,4 +1,4 @@
-This is modified from [t11s'](https://github.com/transmissions11/transmissions11.github.io) fork of the [dapptools](https://github.com/dapphub/dapp-tools) website but rebuild with [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+The PDF was generated using LaTeX, so I’m keeping everything simple.
 
 ## Getting Started
 
